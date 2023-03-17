@@ -1,4 +1,3 @@
-# Hi
 ## Hello World
 
 - 👋 Hi, I’m Adil Naseem @AdilNaseemSheikh.
